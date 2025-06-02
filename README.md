@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <h1 align="center">Hi 👋, I'm Alan</h1>
 <h3 align="center">I am passionate about everything data <br>My focus lies on data processing, model engineering & data visualization</h3>
 
@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,js,c,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,js,c,unity)](https://skillicons.dev)-->
